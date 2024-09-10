@@ -1,0 +1,6 @@
+train: C:/Users/Praveen/Desktop/Real-Time-Detection-of-Helmet-Violations-and-Capturing-Bike-Numbers-from-Number-Plates/assests/train/images
+val: C:/Users/Praveen/Desktop/Real-Time-Detection-of-Helmet-Violations-and-Capturing-Bike-Numbers-from-Number-Plates/assests/val/images
+
+nc: 4
+
+names: ["with helmet", "without helmet", "rider", "number plate"]
